@@ -114,7 +114,3 @@ Add screenshots of your own terminal session here (e.g., `screenshots/add_studen
 - **Subject:** Python Programming
 - **Faculty:** Rohan Sir
 - **Course:** MCA Semester I
-
-## License
-
-This project was created for academic purposes as part of a university assignment.
