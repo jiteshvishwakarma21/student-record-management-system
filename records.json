@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Jitesh Vishwakarma",
+        "age": 20,
+        "course": "MCA",
+        "email": "jitesh@example.com",
+        "marks": 85
+    },
+    {
+        "student_id": "S002",
+        "name": "Prajwal Bhosle",
+        "age": 21,
+        "course": "MCA",
+        "email": "prajwal@example.com",
+        "marks": 80
+    },
+    {
+        "student_id": "S003",
+        "name": "Keshav Sahu",
+        "age": 20,
+        "course": "MCA",
+        "email": "keshav@example.com",
+        "marks": 75
+    }
+]
