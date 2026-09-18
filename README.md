@@ -97,7 +97,6 @@ Marks      : 75
 Total records: 3
 ```
 
-Add screenshots of your own terminal session here (e.g., `screenshots/add_student.png`, `screenshots/view_students.png`) to demonstrate the working application, as required by the assignment.
 
 ## Error Handling Highlights
 
