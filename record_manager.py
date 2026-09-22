@@ -1,7 +1,7 @@
 """
 Console Record-Management Application
 --------------------------------------
-Author: <Your Name Here>
+Author: <jitesh vishwakarma>
 Course: MCA Semester I - Python Programming & Relational Database
 
 Description:
